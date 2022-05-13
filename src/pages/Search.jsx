@@ -1,5 +1,6 @@
 import React from 'react';
 import Header from '../components/Header';
+import Map from '../components/Map';
 import InfoCard from '../components/InfoCard';
 
 function Search() {

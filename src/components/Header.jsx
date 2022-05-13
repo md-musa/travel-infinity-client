@@ -9,7 +9,6 @@ import 'react-date-range/dist/styles.css'; // main style file
 import 'react-date-range/dist/theme/default.css'; // theme css file
 import { DateRangePicker } from 'react-date-range';
 import { Store } from '../contexts/store';
-import { progress } from '../App';
 import { Link } from 'react-router-dom';
 import useProgress from '../hooks/useProgress';
 
